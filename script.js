@@ -56,3 +56,7 @@ function mergeSort(arr) {
   // Returns the result, and appends the remaining half that isn't empty
   return result.concat(firstHalf, secondHalf);
 }
+
+const arrExample1 = [14, 54, 67, 9, 22, 68, 34];
+const arrExample2 = [5, 1, 0, 2, 5, 8, 3];
+const arrExample3 = [234, -12, 567, 23, 987, -336, 666];
